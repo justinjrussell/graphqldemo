@@ -1,0 +1,11 @@
+{
+    "total":1,
+    "rows":[{
+        "rule_id":374,
+        "rule_name":"Android Traffic",
+        "active":false,
+        "shared":true,
+        "redirect_campaign_contract_id":3139,
+        "redirect_campaign_contract_name":"(1001819) QA Test Timestamp - CPA - $2.00 - Inactive"
+    }]
+}

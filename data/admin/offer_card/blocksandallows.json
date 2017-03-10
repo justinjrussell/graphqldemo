@@ -1,0 +1,21 @@
+{
+    "total":2,
+    "rows":[{
+        "buyer_id":1396,
+        "buyer_name":"[QA] Exclusive Buyer - PC Gaming",
+        "campaign_name":"[QA] FFXIV ESPERS Recruitment",
+        "campaign_id":1002239,
+        "publisher_id":null,
+        "publisher_name":null,
+        "subpublisher_id":null,
+        "unique_id":null,
+        "type_name":"One to One Allow",
+        "type_id":4,
+        "buying_rule_id":1354,
+        "rule_name":"[QA] Exclusive Buyer - PC Gaming",
+        "contract_name":null,
+        "contract_id":null,
+        "id":582,
+        "channel_id":null
+    },{
+        "buyer_id":1538,"buyer_name":"[QA] Buyer: Geo-Targeted HnP Offer","campaign_name":"[QA] FFXIV ESPERS Recruitment","campaign_id":1002239,"publisher_id":null,"publisher_name":null,"subpublisher_id":null,"unique_id":null,"type_name":"One to One Allow","type_id":4,"buying_rule_id":1516,"rule_name":"[QA] Buyer: Geo-Targeted HnP Offer","contract_name":null,"contract_id":null,"id":583,"channel_id":null}]}

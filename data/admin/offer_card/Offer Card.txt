@@ -1,0 +1,221 @@
+Offer
+    Home
+        Advertiser
+        Vertical
+        Currency
+        Price Format
+        Type
+        Offer Number
+        Info
+            Name
+            3rd Party Name
+            Storefront
+            Vertical
+            Offer Link
+            Redirect Parameters
+            Confirmation Page Link
+            SSL
+            Received
+            Default Payout
+            Status
+            Link Type
+            Hidden
+        Caps
+            Click Cap
+            Click Cap Interval
+            Click Send Alert Only
+            Conversion Cap
+            Conversion Cap Interval
+            Conversion Send Alert Only
+            Conversion Cap Behavior
+        Redirect
+            Conversion Behavior On Redirect
+            Expiration Date
+            Redirect Offer
+            Redirect 404
+            Redirect Domain
+            Conversions From Whitelist Only
+            Track Search Terms From Non-Supported Search Engines
+            Click Cookie Days
+                Days
+                Hrs
+                Mins
+            Impression Cookie Days
+                Days
+                Hrs
+                Mins
+            Auto Disposition
+            Enable View Thru Conversions
+            Click Trumps Impression
+            Disable Click Deduplication
+            Throwout Click Period
+                Hours
+                Mins
+                Secs
+            Disable Impression Deduplication
+                Hours
+                Mins
+                Secs
+            Conversion Invalidation Threshold
+            Click Scoring
+            Click Invalidation Threshold
+        Grouped Offers
+            Name
+            Auto Place Pixel
+    Creatives
+        Preview
+        Name
+        Type
+        Status
+        Link Override
+        Created
+        Expiration
+    Campaigns
+        Campaign
+        Affiliate
+        Original
+        Type
+        Voucher
+        Created
+        Status
+    Traffic
+        Targeting
+            Geo
+                Country
+                Redirect Offer
+                Allowed
+            Rules
+                Name
+                Active
+                Shared
+                Redirect
+            Offer Contract
+        Media Types
+            Media Type
+            Allowed
+        Blacklists
+            Affiliate
+            SubAffiliate
+            Reason
+            Type
+            Blacklist Date
+    Events
+        Name
+        Received
+        Payout
+        Conversion
+        Portal
+        Active
+        Event ID
+        Event Type
+        Price Format
+        Allow Duplicate
+        Received Percentage
+        Event Cap
+        Event Cap Interval
+        Redirect When Cap is Reached
+        Event Cap Behavior
+        Offer Contract
+    Contracts
+        ID
+        Name
+        Format
+        Received
+        Payout
+        Default
+        Hidden
+        Contracts
+            Offer Contract ID
+            Name
+            Format
+            Received Percentage
+            Received Amount
+            Payout
+            Steps
+            Targeting
+            Events
+            Offer Link
+            Confirmation Page Link
+            Hidden
+            Price Received From Previous Average Interval
+        Caps
+            Click Cap
+            Click Cap Interval
+            Click Send Alert Only
+            Conversion Cap
+            Conversion Cap Interval
+            Conversion Send Alert Only
+        Payouts
+            Start Date
+            Start Time
+            Payout
+            Notes
+        Price Received
+            Start Date
+            Start Time
+            Price Received
+            Notes
+    Ecommerce
+    Affiliate
+        Email
+            Unsubscribe Link
+            Suppression List
+            From Lines
+            Subject Lines
+        Affiliate Portal
+            Preview Link
+            Allow Affiliates To Create Creatives
+            Offer Description
+            Restrictions
+            Advertiser Extended Terms
+            Testing Instruction
+    Advanced
+        Offer Contract
+        Steps
+            Step
+            Name
+            Payout
+            Received
+            Portal
+            Fire Pixel
+            Format
+            Add To Payout
+            Total Payout
+            Received Percentage
+            Add To Received
+            Total Received
+            Record Conversion
+            Link
+        Upsells
+            Offer
+            Creative
+            Direct Link Only
+            Order
+            Actions
+            Thanks You HTML
+        Preops
+            Parameter Field Condition Formula
+        Offer Tiers
+            Tier
+            Price Format
+            Offer Contract
+            Status
+            Redirect Offer
+        Pixel Domains
+            Name
+    Documents
+        File
+        Type
+        Portal
+        Date Added
+        Actions
+    History
+        Notes
+        Type
+        Item
+        Summary
+        Department
+        User
+        Date
+        Detail
+        

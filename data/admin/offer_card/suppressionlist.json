@@ -1,0 +1,9 @@
+{
+    "total": 3,
+    "rows": [{
+        "id":181,
+        "name":"Test - Optizmo",
+        "advertiser_id":900149,
+        "suppression_list_type_id":3
+    },{
+        "id":182,"name":"Test 2 - Optizmo","advertiser_id":900149,"suppression_list_type_id":3},{"id":367,"name":"Ps - httP://gmail.com","advertiser_id":900149,"suppression_list_type_id":1}]}

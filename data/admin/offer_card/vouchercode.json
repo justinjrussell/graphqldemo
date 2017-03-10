@@ -1,0 +1,13 @@
+{
+    "total": 3, 
+    "rows": [{
+        "id":1,
+        "name":"Pay Voucher Code Holder"
+    },{
+        "id":2,
+        "name":"Pay Traffic Source"
+    },{
+        "id":3,
+        "name":"No Payment"
+    }]
+}

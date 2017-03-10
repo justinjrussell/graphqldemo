@@ -1,0 +1,24 @@
+//affiliates/Extjs.ashx?s=events&cont_id=762500
+{
+    "total":2,
+    "rows":[{
+        "id":229,
+        "name":"New Event 222",
+        "event_order":7,
+        "active":true,
+        "price_format_id":1,
+        "price_format":"CPE",
+        "default_active":true,
+        "allow_dupe_events":false,
+        "global_pixel_fire":false,
+        "portal":true,
+        "pixel_html":null,
+        "pixel_url":null,
+        "pixel_delay":null,
+        "price_paid":0.0000,
+        "currency_id":2,
+        "using_campaign_pricing":false,
+        "use_parent_pixel":false,
+        "campaign_price_paid":null
+    },{
+        "id":2281,"name":"Test Event","event_order":10,"active":true,"price_format_id":1,"price_format":"CPE","default_active":true,"allow_dupe_events":true,"global_pixel_fire":false,"portal":true,"pixel_html":null,"pixel_url":null,"pixel_delay":null,"price_paid":0.4466,"currency_id":2,"using_campaign_pricing":false,"use_parent_pixel":false,"campaign_price_paid":null}]}

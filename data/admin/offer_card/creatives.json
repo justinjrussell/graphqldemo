@@ -1,0 +1,33 @@
+{
+    "total":1,
+    "rows":[{
+        "channels_names":"",
+        "name":null,
+        "preview_src":null,
+        "campaign_link":null,
+        "height":null,
+        "width":null,
+        "campaign_name":"[QA] FFXIV ESPERS Recruitment",
+        "type":"Link",
+        "creative_type_id":1,
+        "status_name":"Active",
+        "creative_status_id":1,
+        "description":"",
+        "full_description":null,
+        "expiration_date_data":null,
+        "expiration_date":"",
+        "expiration_time":"",
+        "campaign_id":1002239,
+        "id":1135219,
+        "date_added":"\/Date(1392406174883)\/",
+        "link_override":null,
+        "is_default":true,
+        "creatives_files":false,
+        "allow_redirect_override":false,
+        "third_party_id":null,
+        "storefront_category":null,
+        "storefront_id":null,
+        "affiliate_id":null,
+        "affiliate_name":null
+    }]
+}

@@ -1,0 +1,27 @@
+{
+    "total":6,
+    "rows":[{
+        "id":761094,
+        "name":"[QA] FFXIV ESPERS Recruitment - Sharing is Caring~! - RevShare - 15.00 %",
+        "contract_name":"Sharing is Caring~!",
+        "campaign_name":"[QA] FFXIV ESPERS Recruitment",
+        "status_name":"Active",
+        "status_id":1,
+        "campaign_id":1002239,
+        "publisher_id":1111209,
+        "publisher_name":"[QA] EVA-01",
+        "affiliate_status_name":"Active",
+        "affiliate_status_id":1,
+        "original":true,
+        "media_type":"Banner",
+        "media_type_id":7,
+        "date_added":"\/Date(1441853463283)\/",
+        "paid":true,
+        "review":true,
+        "contract_type_id":1,
+        "third_party_id":null,
+        "voucher":false,
+        "channel_name":"",
+        "channel_id":1
+    },{
+        "id":27041,"name":"[QA] FFXIV ESPERS Recruitment - CPA - $1.00","contract_name":null,"campaign_name":"[QA] FFXIV ESPERS Recruitment","status_name":"Active","status_id":1,"campaign_id":1002239,"publisher_id":1111219,"publisher_name":"[QA] EVA-02","affiliate_status_name":"Active","affiliate_status_id":1,"original":true,"media_type":"Other","media_type_id":13,"date_added":"\/Date(1395775522807)\/","paid":true,"review":false,"contract_type_id":1,"third_party_id":null,"voucher":false,"channel_name":"","channel_id":1},{"id":760817,"name":"[QA] FFXIV ESPERS Recruitment - CPA - $1.00","contract_name":null,"campaign_name":"[QA] FFXIV ESPERS Recruitment","status_name":"Inactive","status_id":2,"campaign_id":1002239,"publisher_id":1111219,"publisher_name":"[QA] EVA-02","affiliate_status_name":"Active","affiliate_status_id":1,"original":false,"media_type":"Banner","media_type_id":7,"date_added":"\/Date(1439840936883)\/","paid":true,"review":true,"contract_type_id":1,"third_party_id":null,"voucher":false,"channel_name":"","channel_id":1},{"id":26835,"name":"[QA] FFXIV ESPERS Recruitment - AF+ - CPA - $1.00","contract_name":"AF+","campaign_name":"[QA] FFXIV ESPERS Recruitment","status_name":"Inactive","status_id":2,"campaign_id":1002239,"publisher_id":1111220,"publisher_name":"[QA] EVA-03","affiliate_status_name":"Active","affiliate_status_id":1,"original":true,"media_type":"Post","media_type_id":1,"date_added":"\/Date(1393960035263)\/","paid":true,"review":false,"contract_type_id":1,"third_party_id":null,"voucher":false,"channel_name":"","channel_id":1},{"id":760988,"name":"[QA] FFXIV ESPERS Recruitment - CPA - $1.10","contract_name":null,"campaign_name":"[QA] FFXIV ESPERS Recruitment","status_name":"Active","status_id":1,"campaign_id":1002239,"publisher_id":1111220,"publisher_name":"[QA] EVA-03","affiliate_status_name":"Active","affiliate_status_id":1,"original":true,"media_type":"Contextual","media_type_id":8,"date_added":"\/Date(1440716449587)\/","paid":true,"review":true,"contract_type_id":1,"third_party_id":null,"voucher":false,"channel_name":"","channel_id":1},{"id":761130,"name":"[QA] FFXIV ESPERS Recruitment - Click n Play - CPC - $0.01","contract_name":"Click n Play","campaign_name":"[QA] FFXIV ESPERS Recruitment","status_name":"Active","status_id":1,"campaign_id":1002239,"publisher_id":1111339,"publisher_name":"[QA] EVA-04","affiliate_status_name":"Active","affiliate_status_id":1,"original":true,"media_type":"Banner","media_type_id":7,"date_added":"\/Date(1442353060900)\/","paid":true,"review":true,"contract_type_id":1,"third_party_id":null,"voucher":false,"channel_name":"","channel_id":1}]}

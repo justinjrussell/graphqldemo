@@ -1,0 +1,19 @@
+{
+    "total": 5, 
+    "rows": [{
+        "id":1,
+        "name":"Advertiser Payment, Affiliate Payment"
+    },{
+        "id":2,
+        "name":"Advertiser Payment, No Affiliate Payment"
+    },{
+        "id":5,
+        "name":"Ignore Conversion"
+    },{
+        "id":3,
+        "name":"No Advertiser Payment, Affiliate Payment"
+    },{
+        "id":4,
+        "name":"No Advertiser Payment, No Affiliate Payment"
+    }]
+}

@@ -1,0 +1,19 @@
+{
+    "total": 5, 
+    "rows": [{
+        "id":1,
+        "name":"CPA"
+    },{
+        "id":2,
+        "name":"CPC"
+    },{
+        "id":3,
+        "name":"CPM"
+    },{
+        "id":4,
+        "name":"Fixed"
+    },{
+        "id":5,
+        "name":"RevShare"
+    }]
+}
